@@ -97,6 +97,6 @@ def ispanagram(str1, alphabet=string.ascii_lowercase):
         print (" its NOT a panagram")
 
 ispanagram("The quick brown fox jumps over the lazy dogs")
-print (ispanagram("The quick brown fox jumps over the lazy dogs").sort(key=sort_key, reverse=False))
+
 
 
